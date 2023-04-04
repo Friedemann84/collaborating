@@ -1,8 +1,11 @@
+
+
 # collaborating
 Persönliche Daten:
 Name: Lukas
 Alter: 25 Jahre
 Wohnort: Hamburg
+
 
 Berufserfahrung:
 Straßenbauarbeiter bei XYZ Bauunternehmen in Hamburg
@@ -55,3 +58,13 @@ Den restlichen Teig auf die gleiche Weise braten, bis er aufgebraucht ist.
 Mit Toppings wie z.B. Ahornsirup, Früchten, Joghurt oder Schlagsahne servieren.
 
 Guten Appetit!
+
+Ich bin Friedemann, ich esse gerne Pizza und definiere kein Wort.
+
+Kassandra J.K.  
+Alter: 35  
+Wohnhaft: Erfurt  
+Hobbys: Gaming, Pen & Paper, 
+Haustier: Katze
+
+
